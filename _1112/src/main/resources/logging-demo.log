@@ -1,0 +1,7 @@
+2020-02-25 16:02:13 INFO  CleanCode2.App:16 - App started
+2020-02-25 16:02:13 INFO  CleanCode2.App:18 - Enter material standard between :- standard/above standard/high standard/high standard and fully automated
+2020-02-25 16:02:27 INFO  CleanCode2.App:20 - Enter total area of house: 
+2020-02-25 16:02:31 DEBUG CleanCode2.App:35 - Entered estimateHouseConstructionCost() method
+2020-02-25 16:02:31 DEBUG CleanCode2.App:18 - Entered constructionCostPerSquareFeet() method
+2020-02-25 16:02:31 INFO  CleanCode2.App:27 - Total Construction Cost : 3000000.0
+2020-02-25 16:02:31 WARN  CleanCode2.App:28 - App about to end
